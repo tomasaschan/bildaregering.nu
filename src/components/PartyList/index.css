@@ -1,0 +1,28 @@
+.party-list li {
+  padding: 15px;
+  display: inline-block;
+  margin: 10px;
+  height: 30px;
+  border-radius: 15px;
+  cursor: pointer;
+  background: silver;
+}
+.party-list li span {
+  color: white;
+  mix-blend-mode: color-dodge;
+}
+.party-list {
+  list-style-type: none;
+  mix-blend-mode: difference;
+  display: inline-block;
+}
+.party-list li.selected {
+  background: initial;
+}
+
+.party-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

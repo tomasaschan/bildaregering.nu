@@ -1,0 +1,20 @@
+.majority {
+  background-color: green;
+}
+.minority {
+  background-color: orange;
+}
+.conflict {
+  background-color: #f31431;
+}
+
+.majority,
+.minority,
+.conflict {
+  color: white;
+}
+
+.majority h1,
+.minority h1 {
+  margin-top: 0;
+}

@@ -1,0 +1,17 @@
+.party-chooser {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.party-chooser svg g {
+  cursor: pointer;
+}
+
+.party-chooser span {
+  font-size: 1.4em;
+  font-weight: bold;
+  text-align: center;
+}
