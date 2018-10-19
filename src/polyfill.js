@@ -1,4 +1,4 @@
-import 'array.prototype.flatmap'
+import 'core-js/fn/array/flat-map'
 
 if (!Array.prototype.find) {
   /* eslint-disable no-extend-native */

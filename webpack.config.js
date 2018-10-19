@@ -5,8 +5,6 @@ module.exports = {
   devServer: {
     hot: true
   },
-  entry: ['@babel/polyfill', './src/index.js'],
-
   module: {
     rules: [
       {
