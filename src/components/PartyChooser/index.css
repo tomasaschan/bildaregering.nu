@@ -15,3 +15,52 @@
   font-weight: bold;
   text-align: center;
 }
+.ct-series.Sverigedemokraterna.selected {
+  fill: #dddd00;
+}
+.ct-series.Sverigedemokraterna {
+  fill: #919100;
+}
+
+.ct-series.Kristdemokraterna.selected {
+  fill: #231977;
+}
+.ct-series.Kristdemokraterna {
+  fill: #130e42;
+}
+.ct-series.Moderaterna.selected {
+  fill: #1b49dd;
+}
+.ct-series.Moderaterna {
+  fill: #153aa8;
+}
+.ct-series.Liberalerna.selected {
+  fill: #6bb7ec;
+}
+.ct-series.Liberalerna {
+  fill: #548fb7;
+}
+.ct-series.Centerpartiet.selected {
+  fill: #009933;
+}
+.ct-series.Centerpartiet {
+  fill: #006622;
+}
+.ct-series.Miljöpartiet.selected {
+  fill: #83cf39;
+}
+.ct-series.Miljöpartiet {
+  fill: #639b2b;
+}
+.ct-series.Socialdemokraterna.selected {
+  fill: #ee2020;
+}
+.ct-series.Socialdemokraterna {
+  fill: #ba1a1a;
+}
+.ct-series.Vänsterpartiet.selected {
+  fill: #af0000;
+}
+.ct-series.Vänsterpartiet {
+  fill: #7a0000;
+}
